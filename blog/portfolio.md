@@ -10,6 +10,28 @@ permalink: /portfolio/
 I decided to code my own custom solution.
 My repository is currently private but I'll post a demo link to the site soon.*
 
+---
+
+#Django distance calculator
+
+*This webapp started as a simple python script to calculate the distance between 2
+locations using google's distance matrix API. I had a need for the tool when
+I worked at an IT job that had me traveling all over the city. At the end of the
+week I would go on googlemaps and type out all the addresses and copy the distances
+into a spreadsheet. This was very repetitive and time consuming. So I wrote a simple
+CLI application that had all the addresses I would have to visit. We used a simple
+3 digit number to identify each location. So all I would have to do to get the distance
+between 2 locations was type out 6 characters. During the 7 months that the contract lasted
+it saved me hours of work. I realized that many people at the company disliked the time
+consuming repetive task of going to googlemaps and typing out all the addresses manually.
+I had solved the problem yet nobody would use my script. I realized quickly that
+they were all scared of using CLI applications.
+
+I believe the solution to this provide is to provide a simple graphic interface
+with no software to install. So I wrote a simple webapp to do just that.*
+
+---
+
 #Indeed.ca job scrapers
 
 [https://github.com/pydo/lead_scraper]()
