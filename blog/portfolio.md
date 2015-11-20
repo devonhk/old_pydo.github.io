@@ -27,7 +27,7 @@ consuming repetive task of going to googlemaps and typing out all the addresses 
 I had solved the problem yet nobody would use my script. I realized quickly that
 they were all scared of using CLI applications.
 
-I believe the solution to this provide is to provide a simple graphic interface
+I believe the solution is to provide a simple graphic interface
 with no software to install. So I wrote a simple webapp to do just that.
 
 ---

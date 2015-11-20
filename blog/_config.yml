@@ -3,6 +3,9 @@ title: Pydo's blog
 email: pydo@tutanota.com
 description: > # this means to ignore newlines until "baseurl:"
   Pydo's python programming blog and portfolio.
+
+  
+  This blog is temporary, I will be moving to a different platform soon.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pydo.github.io" # the base hostname & protocol for your site
 twitter_username: N/A
