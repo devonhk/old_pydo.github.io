@@ -80,7 +80,6 @@ a terminal window.
 
 ---
 
-
 #CookServeDelicious image recognition bot
 
 [https://github.com/pydo/cookServeDelicious-Bot]()
