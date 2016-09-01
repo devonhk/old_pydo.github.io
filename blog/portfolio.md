@@ -43,7 +43,7 @@ and the ORM version that uses SQLAlchemy
 
 [https://github.com/pydo/lead_scraper_orm]()
 
-This version of the scraper is similar to the orignal but offers a few
+This version of the scraper is similar to the original but offers a few
 improvements. I use an ORM (SQLAlchemy) for easier to read code and an easier
 to user interface to search for jobs using argsparse.
 
